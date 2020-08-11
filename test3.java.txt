@@ -1,0 +1,8 @@
+public class m1{
+
+public m1(){
+
+system.out.println();
+}
+
+}
