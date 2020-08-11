@@ -1,0 +1,8 @@
+pblic void class{
+
+pblic main(){
+
+system.out.println();
+}
+
+}
